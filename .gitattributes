@@ -157,33 +157,33 @@ function keepAlive(){
 		var randomNumber = Math.floor((Math.random() * 24) + 1);
 		
 		if(randomNumber == 1) { $('#message').val(':D'); }
-			else if(randomNumber == 2) { $('#message').val('Frankly, my dear, I don't give a damn!)'); }
-			else if(randomNumber == 3) { $('#message').val('I'll be back.'); }
+			else if(randomNumber == 2) { $('#message').val('Frankly, my dear, I don&#39;t give a damn!)'); }
+			else if(randomNumber == 3) { $('#message').val('I&#39;ll be back.'); }
 			else if(randomNumber == 4) { $('#message').val('...Bond. James Bond.'); }
 			else if(randomNumber == 5) { $('#message').val('My precious.'); }
-			else if(randomNumber == 6) { $('#message').val('We ask ourselves, is she black? Is she white? We don't care. She's exotic. I want to see more of her boobs.'); }
+			else if(randomNumber == 6) { $('#message').val('We ask ourselves, is she black? Is she white? We don&#39;t care. She&#39;s exotic. I want to see more of her boobs.'); }
 			else if(randomNumber == 7) { $('#message').val('...Father to a murdered son. Husband to a murdered wife. And I will have my vengeance, in this life or the next.'); }
 			else if(randomNumber == 8) { $('#message').val('At my signal, unleash hell.'); }
 			else if(randomNumber == 9) { $('#message').val('Show me the money!'); }
 			else if(randomNumber == 10) { $('#message').val('I have been stabbed, shot, poisoned, frozen, hung, electrocuted, and burned.'); }
-			else if(randomNumber == 11) { $('#message').val('If I'm not back in five minutes, just wait longer.'); }
+			else if(randomNumber == 11) { $('#message').val('If I&#39;m not back in five minutes, just wait longer.'); }
 			else if(randomNumber == 12) { $('#message').val('I see dead people.'); }
 			else if(randomNumber == 13) { $('#message').val('...That they may take our lives, but they will never take our freedom.'); }
 			else if(randomNumber == 14) { $('#message').val('To Infinity and Beyond!'); }
 			else if(randomNumber == 15) { $('#message').val('Everybody lies.'); }
-			else if(randomNumber == 16) { $('#message').val('It's a basic truth of the human condition that everybody lies. The only variable is about what.'); }
-			else if(randomNumber == 17) { $('#message').val('I don't ask why patients lie, I just assume they all do.'); }
-			else if(randomNumber == 18) { $('#message').val('Tests take time. Treatment's quicker.'); }
-			else if(randomNumber == 19) { $('#message').val('If it works, we're right. If he dies, it was something else.'); }
-			else if(randomNumber == 20) { $('#message').val('If her DNA was off by one percentage point she'd be a dolphin.'); }
+			else if(randomNumber == 16) { $('#message').val('It&#39;s a basic truth of the human condition that everybody lies. The only variable is about what.'); }
+			else if(randomNumber == 17) { $('#message').val('I don&#39;t ask why patients lie, I just assume they all do.'); }
+			else if(randomNumber == 18) { $('#message').val('Tests take time. Treatment&#39;s quicker.'); }
+			else if(randomNumber == 19) { $('#message').val('If it works, we&#39;re right. If he dies, it was something else.'); }
+			else if(randomNumber == 20) { $('#message').val('If her DNA was off by one percentage point she&#39;d be a dolphin.'); }
 			else if(randomNumber == 21) { $('#message').val('Read less, more TV.'); }
 			else if(randomNumber == 22) { $('#message').val('No more half-measures.'); }
 			else if(randomNumber == 23) { $('#message').val('I am the one who knocks.'); }
-			else if(randomNumber == 24) { $('#message').val('I'm not in the meth business. I'm in the empire business.'); } 
+			else if(randomNumber == 24) { $('#message').val('I&#39;m not in the meth business. I&#39;m in the empire business.'); } 
 			else if(randomNumber == 25) { $('#message').val('Say my name.'); }
 			else if(randomNumber == 26) { $('#message').val('Once again, the gods spread cheeks and ram cock in fucking ass! '); }
-			else if(randomNumber == 27) { $('#message').val('Death comes to us all. Press me again, and you will find yours.'); }
-			else if(randomNumber == 28) { $('#message').val('Jupiter's Cock!'); }
+			else if(randomNumber == 27) { $('#message').val('Death comes to us all. Press me again, and you will find yours!'); }
+			else if(randomNumber == 28) { $('#message').val('Jupiter&#39;s Cock!'); }
 		
 	
 		
