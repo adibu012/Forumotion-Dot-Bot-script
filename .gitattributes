@@ -156,8 +156,8 @@ function keepAlive(){
 		
 		var randomNumber = Math.floor((Math.random() * 24) + 1);
 		
-		if(randomNumber == 1) { $('#message').val(':D'); }
-			else if(randomNumber == 2) { $('#message').val('Frankly, my dear, I don&#39;t give a damn!)'); }
+		if(randomNumber == 1) { $('#message').val('I&#39;ll be back.'); }
+			else if(randomNumber == 2) { $('#message').val('Frankly, my dear, I don&#39;t give a damn!'); }
 			else if(randomNumber == 3) { $('#message').val('I&#39;ll be back.'); }
 			else if(randomNumber == 4) { $('#message').val('...Bond. James Bond.'); }
 			else if(randomNumber == 5) { $('#message').val('My precious.'); }
@@ -185,9 +185,21 @@ function keepAlive(){
 			else if(randomNumber == 27) { $('#message').val('Death comes to us all. Press me again, and you will find yours!'); }
 			else if(randomNumber == 28) { $('#message').val('Jupiter&#39;s Cock!'); }
 		
-	
+			else if(randomNumber == 29) { $('#message').val('May the Force be with you.'); }
+			else if(randomNumber == 30) { $('#message').val('I love the smell of napalm in the morning.'); }
+			else if(randomNumber == 31) { $('#message').val('Keep your friends close, but your enemies closer.'); }
+      else if(randomNumber == 32) { $('#message').val('Hasta la vista, baby.'); }
+			else if(randomNumber == 33) { $('#message').val('Houston, we&#39;ve had a problem.'); }
+			else if(randomNumber == 34) { $('#message').val('I am Spartacus.'); }
+			else if(randomNumber == 35) { $('#message').val('In case I don&#39;t see ya, good afternoon, good evening, and good night!'); }
 		
-		else { $('#message').val('.'); }
+		  else if(randomNumber == 36) { $('#message').val('In Switzerland they had brotherly love – and 500 years of democracy and peace, and what did that produce? The cuckoo clock.'); }
+			else if(randomNumber == 37) { $('#message').val('To call you stupid would be an insult to stupid people!'); }
+			else if(randomNumber == 38) { $('#message').val('Toto, I&#39;ve a feeling we&#39;re not in Kansas anymore.'); }
+			else if(randomNumber == 39) { $('#message').val('You can&#39;t fool me. There ain&#39;t no Sanity Clause!'); }
+
+		
+		else { $('#message').val('We ask ourselves, is she black? Is she white? We don&#39;t care. She&#39;s exotic. I want to see more of her boobs.'); }
 		
 		$('#submit_button').click();
 	}
